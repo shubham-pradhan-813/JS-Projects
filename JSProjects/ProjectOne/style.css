@@ -1,0 +1,35 @@
+h1{
+    margin-left: 20%;
+}
+.button{
+    padding: 10px 30px;
+    background-color: #fff;
+    border: 2px solid #212121;
+    color: #212121;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 3px;
+    align-items: center;
+}
+
+#grey{
+    background-color: gray;
+}
+#white{
+    background-color: white;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#pink{
+    background-color: pink;
+}

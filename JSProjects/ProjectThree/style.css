@@ -1,0 +1,31 @@
+#main {
+    background-color: black;
+    height: 100vh; /* Full screen height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center;     /* Center horizontally */
+}
+
+#clock {
+    background-color: orange;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    color: wheat;
+    text-align: center;
+    font-size: 1.5rem;     /* Bigger font */
+    font-weight: bold;     /* Make it bold */
+    line-height: 60px;     /* Vertically center text inside */
+}
+
+#banner {
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;       /* Optional: clearer heading */
+    margin-bottom: 20px;   /* Space above clock */
+}
+
+#clock, #banner {
+    margin: 0 auto;
+}
